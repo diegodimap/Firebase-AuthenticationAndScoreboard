@@ -1,0 +1,40 @@
+{
+    "project_info": {
+        "project_number": "97835659413",
+        "project_id": "autenticacao-1a5d7",
+        "firebase_url": "https://autenticacao-1a5d7-default-rtdb.firebaseio.com/",
+        "storage_bucket": "autenticacao-1a5d7.appspot.com"
+    },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:97835659413:android:d2f9ca30a86a2bdfca2b9c",
+        "android_client_info": {
+          "package_name": "com.DefaultCompany.AutenticacaoFirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "97835659413-1bfpuf1ct6je7g7dvu5r2l6o438fnn96.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCSRjKUAs1-T9zijdADqt3MqzJ-Y_-j4d0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "97835659413-1bfpuf1ct6je7g7dvu5r2l6o438fnn96.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
